@@ -1,0 +1,20 @@
+RUN	MarsTest.Framework.MarsSim	marssim	1623871446193	MarsTest.Framework.MarsSim-SIMULATION_1_1:SIMULATION_2_1:SIMULATION_3_1:Iterations_1	3.5.1
+REQUEST	MarsTestALL / APIs,SearchByMetaData		1623871447528	1623871447528	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,SearchByMetaData	1623871447514	1623871447531	1	KO
+USER	MarsTestALL	START	1623871447511
+REQUEST	MarsTestALL / APIs,GetDocumentById		1623871448535	1623871448535	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1623871448534	1623871448535	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1623871449536	1623871449537	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1623871449536	1623871449537	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1623871450538	1623871450539	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1623871450538	1623871450539	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1623871451540	1623871451540	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1623871451539	1623871451540	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1623871452541	1623871452542	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1623871452541	1623871452542	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1623871453546	1623871453547	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1623871453546	1623871453547	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1623871454551	1623871454551	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1623871454551	1623871454551	1	KO
+GROUP	MarsTestALL / APIs	1623871447513	1623871455555	8	KO
+USER	MarsTestALL	END	1623871455557

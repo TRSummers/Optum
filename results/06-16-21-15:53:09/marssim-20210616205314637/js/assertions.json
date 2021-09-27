@@ -1,0 +1,10 @@
+{
+  "simulation": "MarsTest.Framework.MarsSim",
+  "simulationId": "marssim",
+  "start": 1623876794637,
+  "description": "MarsTest.Framework.MarsSim-SIMULATION_1_1:SIMULATION_2_1:SIMULATION_3_1:Iterations_1",
+  "scenarios": ["MarsTestApi2"],
+  "assertions": [
+
+  ]
+}

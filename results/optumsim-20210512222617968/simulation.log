@@ -1,0 +1,803 @@
+RUN	Optum.Framework.OptumSim	optumsim	1620858377968	 	3.5.1
+USER	Users_1	START	1620858379402
+REQUEST	Scen_1,Login	BasePage	1620858379420	1620858379704	OK	 
+REQUEST	Scen_1,Login	BasePage_1	1620858379724	1620858379808	OK	 
+REQUEST	Scen_1,Login	BasePage_2	1620858379815	1620858379884	OK	 
+REQUEST	Scen_1,Login	BasePage_3	1620858379886	1620858379961	OK	 
+REQUEST	Scen_1,Login	BasePage_4	1620858379962	1620858380045	OK	 
+REQUEST	Scen_1,Login	BasePage_5	1620858380046	1620858382177	OK	 
+GROUP	Scen_1,Login	1620858379405	1620858382178	2726	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858383185	1620858383315	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858383184	1620858383316	130	OK
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620858385421	1620858386273	OK	 
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620858386274	1620858386712	OK	 
+GROUP	Scen_1,SearchName_douglas	1620858385418	1620858386713	1290	OK
+REQUEST	Scen_1,Search3	Search_3	1620858389213	1620858389653	OK	 
+GROUP	Scen_1,Search3	1620858389212	1620858389653	440	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858392531	1620858392879	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858392530	1620858392880	348	OK
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620858395348	1620858396204	OK	 
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620858396206	1620858396978	OK	 
+GROUP	Scen_1,SearchName_thomas	1620858395347	1620858396979	1628	OK
+REQUEST	Scen_1,Search3	Search_3	1620858399748	1620858400506	OK	 
+GROUP	Scen_1,Search3	1620858399747	1620858400507	758	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858403454	1620858403802	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858403453	1620858403803	348	OK
+REQUEST	Scen_1,SearchName_smith	Search_1	1620858406005	1620858406783	OK	 
+REQUEST	Scen_1,SearchName_smith	Search_2	1620858406785	1620858407774	OK	 
+GROUP	Scen_1,SearchName_smith	1620858406004	1620858407775	1767	OK
+REQUEST	Scen_1,Search3	Search_3	1620858410640	1620858411459	OK	 
+GROUP	Scen_1,Search3	1620858410639	1620858411459	819	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858413712	1620858413900	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858413711	1620858413900	188	OK
+REQUEST	Scen_1,SearchName_roger	Search_1	1620858415954	1620858417094	OK	 
+REQUEST	Scen_1,SearchName_roger	Search_2	1620858417096	1620858417912	OK	 
+GROUP	Scen_1,SearchName_roger	1620858415953	1620858417913	1956	OK
+REQUEST	Scen_1,Search3	Search_3	1620858420441	1620858420920	OK	 
+GROUP	Scen_1,Search3	1620858420440	1620858420921	479	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858423501	1620858423659	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858423500	1620858423660	158	OK
+REQUEST	Scen_1,SearchName_baker	Search_1	1620858425736	1620858426617	OK	 
+REQUEST	Scen_1,SearchName_baker	Search_2	1620858426618	1620858427641	OK	 
+GROUP	Scen_1,SearchName_baker	1620858425735	1620858427642	1904	OK
+REQUEST	Scen_1,Search3	Search_3	1620858430106	1620858431020	OK	 
+GROUP	Scen_1,Search3	1620858430105	1620858431021	914	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858433379	1620858433534	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858433378	1620858433535	155	OK
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620858435922	1620858436649	OK	 
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620858436650	1620858437266	OK	 
+GROUP	Scen_1,SearchName_douglas	1620858435921	1620858437267	1343	OK
+REQUEST	Scen_1,Search3	Search_3	1620858440256	1620858441881	OK	 
+GROUP	Scen_1,Search3	1620858440254	1620858441882	1625	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858444367	1620858444537	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858444367	1620858444538	170	OK
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620858447336	1620858448161	OK	 
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620858448163	1620858449247	OK	 
+GROUP	Scen_1,SearchName_thomas	1620858447335	1620858449248	1909	OK
+REQUEST	Scen_1,Search3	Search_3	1620858451661	1620858452114	OK	 
+GROUP	Scen_1,Search3	1620858451660	1620858452115	453	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858455052	1620858455187	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858455051	1620858455188	135	OK
+REQUEST	Scen_1,SearchName_smith	Search_1	1620858457207	1620858458256	OK	 
+REQUEST	Scen_1,SearchName_smith	Search_2	1620858458258	1620858459081	OK	 
+GROUP	Scen_1,SearchName_smith	1620858457206	1620858459082	1872	OK
+REQUEST	Scen_1,Search3	Search_3	1620858461907	1620858462456	OK	 
+GROUP	Scen_1,Search3	1620858461906	1620858462456	549	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858464731	1620858464866	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858464731	1620858464867	135	OK
+REQUEST	Scen_1,SearchName_roger	Search_1	1620858467461	1620858468297	OK	 
+REQUEST	Scen_1,SearchName_roger	Search_2	1620858468298	1620858469113	OK	 
+GROUP	Scen_1,SearchName_roger	1620858467460	1620858469114	1651	OK
+REQUEST	Scen_1,Search3	Search_3	1620858471910	1620858472492	OK	 
+GROUP	Scen_1,Search3	1620858471909	1620858472493	582	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858474518	1620858474660	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858474517	1620858474661	142	OK
+REQUEST	Scen_1,SearchName_baker	Search_1	1620858476716	1620858477511	OK	 
+REQUEST	Scen_1,SearchName_baker	Search_2	1620858477512	1620858478329	OK	 
+GROUP	Scen_1,SearchName_baker	1620858476715	1620858478330	1612	OK
+REQUEST	Scen_1,Search3	Search_3	1620858480788	1620858481400	OK	 
+GROUP	Scen_1,Search3	1620858480787	1620858481401	612	OK
+REQUEST	Scen_1,Search3	Search_3	1620858483720	1620858484265	OK	 
+GROUP	Scen_1,Search3	1620858483719	1620858484266	545	OK
+GROUP	Scen_1	1620858379404	1620858485268	29343	OK
+REQUEST	Scen_1,Login	BasePage	1620858485270	1620858485346	OK	 
+REQUEST	Scen_1,Login	BasePage_1	1620858485348	1620858485432	OK	 
+REQUEST	Scen_1,Login	BasePage_2	1620858485433	1620858485498	OK	 
+REQUEST	Scen_1,Login	BasePage_3	1620858485500	1620858485564	OK	 
+REQUEST	Scen_1,Login	BasePage_4	1620858485566	1620858485627	OK	 
+REQUEST	Scen_1,Login	BasePage_5	1620858485628	1620858487240	OK	 
+GROUP	Scen_1,Login	1620858485269	1620858487241	1962	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858488245	1620858488377	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858488244	1620858488378	132	OK
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620858491029	1620858491638	OK	 
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620858491639	1620858492357	OK	 
+GROUP	Scen_1,SearchName_douglas	1620858491028	1620858492358	1327	OK
+REQUEST	Scen_1,Search3	Search_3	1620858494857	1620858495292	OK	 
+GROUP	Scen_1,Search3	1620858494856	1620858495293	435	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858497662	1620858497796	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858497661	1620858497796	134	OK
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620858500337	1620858501574	OK	 
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620858501575	1620858502390	OK	 
+GROUP	Scen_1,SearchName_thomas	1620858500336	1620858502391	2052	OK
+REQUEST	Scen_1,Search3	Search_3	1620858504975	1620858505567	OK	 
+GROUP	Scen_1,Search3	1620858504974	1620858505568	592	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858508362	1620858508501	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858508361	1620858508502	139	OK
+REQUEST	Scen_1,SearchName_smith	Search_1	1620858510546	1620858512736	OK	 
+REQUEST	Scen_1,SearchName_smith	Search_2	1620858512737	1620858513657	OK	 
+GROUP	Scen_1,SearchName_smith	1620858510545	1620858513658	3110	OK
+REQUEST	Scen_1,Search3	Search_3	1620858516470	1620858517548	OK	 
+GROUP	Scen_1,Search3	1620858516469	1620858517549	1078	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858519742	1620858519984	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858519742	1620858519984	242	OK
+REQUEST	Scen_1,SearchName_roger	Search_1	1620858522864	1620858523718	OK	 
+REQUEST	Scen_1,SearchName_roger	Search_2	1620858523719	1620858524511	OK	 
+GROUP	Scen_1,SearchName_roger	1620858522863	1620858524511	1646	OK
+REQUEST	Scen_1,Search3	Search_3	1620858526846	1620858527379	OK	 
+GROUP	Scen_1,Search3	1620858526845	1620858527380	533	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858529906	1620858530028	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858529905	1620858530029	122	OK
+REQUEST	Scen_1,SearchName_baker	Search_1	1620858532519	1620858533319	OK	 
+REQUEST	Scen_1,SearchName_baker	Search_2	1620858533320	1620858534137	OK	 
+GROUP	Scen_1,SearchName_baker	1620858532518	1620858534138	1617	OK
+REQUEST	Scen_1,Search3	Search_3	1620858536313	1620858536904	OK	 
+GROUP	Scen_1,Search3	1620858536312	1620858536905	591	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858539564	1620858539950	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858539564	1620858539951	386	OK
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620858542953	1620858543455	OK	 
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620858543456	1620858543969	OK	 
+GROUP	Scen_1,SearchName_douglas	1620858542952	1620858543969	1015	OK
+REQUEST	Scen_1,Search3	Search_3	1620858546780	1620858547347	OK	 
+GROUP	Scen_1,Search3	1620858546780	1620858547347	567	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858550247	1620858550726	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858550246	1620858550727	479	OK
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620858553568	1620858554412	OK	 
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620858554413	1620858555228	OK	 
+GROUP	Scen_1,SearchName_thomas	1620858553568	1620858555229	1659	OK
+REQUEST	Scen_1,Search3	Search_3	1620858558039	1620858558508	OK	 
+GROUP	Scen_1,Search3	1620858558038	1620858558509	469	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858560991	1620858561116	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858560991	1620858561117	125	OK
+REQUEST	Scen_1,SearchName_smith	Search_1	1620858563653	1620858564453	OK	 
+REQUEST	Scen_1,SearchName_smith	Search_2	1620858564454	1620858565760	OK	 
+GROUP	Scen_1,SearchName_smith	1620858563652	1620858565761	2106	OK
+REQUEST	Scen_1,Search3	Search_3	1620858568159	1620858568595	OK	 
+GROUP	Scen_1,Search3	1620858568158	1620858568596	436	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858571042	1620858571495	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858571042	1620858571496	453	OK
+REQUEST	Scen_1,SearchName_roger	Search_1	1620858574021	1620858575196	OK	 
+REQUEST	Scen_1,SearchName_roger	Search_2	1620858575197	1620858576647	OK	 
+GROUP	Scen_1,SearchName_roger	1620858574020	1620858576647	2625	OK
+REQUEST	Scen_1,Search3	Search_3	1620858578948	1620858579398	OK	 
+GROUP	Scen_1,Search3	1620858578948	1620858579398	450	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858581674	1620858582015	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858581673	1620858582016	341	OK
+REQUEST	Scen_1,SearchName_baker	Search_1	1620858584929	1620858585851	OK	 
+REQUEST	Scen_1,SearchName_baker	Search_2	1620858585852	1620858586771	OK	 
+GROUP	Scen_1,SearchName_baker	1620858584928	1620858586771	1841	OK
+REQUEST	Scen_1,Search3	Search_3	1620858588880	1620858589326	OK	 
+GROUP	Scen_1,Search3	1620858588879	1620858589327	446	OK
+REQUEST	Scen_1,Search3	Search_3	1620858592029	1620858592506	OK	 
+GROUP	Scen_1,Search3	1620858592028	1620858592507	477	OK
+GROUP	Scen_1	1620858485269	1620858593508	29587	OK
+REQUEST	Scen_1,Login	BasePage	1620858593510	1620858593807	OK	 
+REQUEST	Scen_1,Login	BasePage_1	1620858593808	1620858593894	OK	 
+REQUEST	Scen_1,Login	BasePage_2	1620858593895	1620858593960	OK	 
+REQUEST	Scen_1,Login	BasePage_3	1620858593961	1620858594026	OK	 
+REQUEST	Scen_1,Login	BasePage_4	1620858594027	1620858594107	OK	 
+REQUEST	Scen_1,Login	BasePage_5	1620858594108	1620858595680	OK	 
+GROUP	Scen_1,Login	1620858593509	1620858595680	2165	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858596687	1620858597010	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858596686	1620858597011	323	OK
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620858599812	1620858600800	OK	 
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620858600802	1620858601314	OK	 
+GROUP	Scen_1,SearchName_douglas	1620858599811	1620858601315	1500	OK
+REQUEST	Scen_1,Search3	Search_3	1620858604224	1620858604666	OK	 
+GROUP	Scen_1,Search3	1620858604223	1620858604667	442	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858607295	1620858607520	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858607295	1620858607521	225	OK
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620858610123	1620858611450	OK	 
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620858611451	1620858612683	OK	 
+GROUP	Scen_1,SearchName_thomas	1620858610122	1620858612683	2559	OK
+REQUEST	Scen_1,Search3	Search_3	1620858615595	1620858616668	OK	 
+GROUP	Scen_1,Search3	1620858615594	1620858616669	1073	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858619520	1620858619659	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858619519	1620858619660	139	OK
+REQUEST	Scen_1,SearchName_smith	Search_1	1620858622182	1620858623842	OK	 
+REQUEST	Scen_1,SearchName_smith	Search_2	1620858623843	1620858625580	OK	 
+GROUP	Scen_1,SearchName_smith	1620858622182	1620858625581	3397	OK
+REQUEST	Scen_1,Search3	Search_3	1620858627862	1620858628344	OK	 
+GROUP	Scen_1,Search3	1620858627861	1620858628345	482	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858630979	1620858631374	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858630978	1620858631375	395	OK
+REQUEST	Scen_1,SearchName_roger	Search_1	1620858633948	1620858635105	OK	 
+REQUEST	Scen_1,SearchName_roger	Search_2	1620858635106	1620858636119	OK	 
+GROUP	Scen_1,SearchName_roger	1620858633947	1620858636119	2170	OK
+REQUEST	Scen_1,Search3	Search_3	1620858638456	1620858638892	OK	 
+GROUP	Scen_1,Search3	1620858638456	1620858638893	436	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858641223	1620858641560	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858641222	1620858641561	337	OK
+REQUEST	Scen_1,SearchName_baker	Search_1	1620858643762	1620858644505	OK	 
+REQUEST	Scen_1,SearchName_baker	Search_2	1620858644506	1620858645752	OK	 
+GROUP	Scen_1,SearchName_baker	1620858643761	1620858645752	1989	OK
+REQUEST	Scen_1,Search3	Search_3	1620858647962	1620858648518	OK	 
+GROUP	Scen_1,Search3	1620858647961	1620858648518	556	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858650809	1620858650996	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858650808	1620858650997	187	OK
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620858653413	1620858654253	OK	 
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620858654254	1620858654974	OK	 
+GROUP	Scen_1,SearchName_douglas	1620858653412	1620858654975	1560	OK
+REQUEST	Scen_1,Search3	Search_3	1620858657571	1620858658351	OK	 
+GROUP	Scen_1,Search3	1620858657570	1620858658351	780	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858660547	1620858660692	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858660547	1620858660693	145	OK
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620858662936	1620858663835	OK	 
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620858663836	1620858664697	OK	 
+GROUP	Scen_1,SearchName_thomas	1620858662936	1620858664698	1760	OK
+REQUEST	Scen_1,Search3	Search_3	1620858667081	1620858668130	OK	 
+GROUP	Scen_1,Search3	1620858667080	1620858668131	1049	OK
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858670314	1620858670549	OK	 
+GROUP	Scen_1,SearchByActiveMember	1620858670313	1620858670549	235	OK
+REQUEST	Scen_1,SearchName_smith	Search_1	1620858673191	1620858674184	OK	 
+REQUEST	Scen_1,SearchName_smith	Search_2	1620858674185	1620858675038	OK	 
+GROUP	Scen_1,SearchName_smith	1620858673190	1620858675038	1846	OK
+REQUEST	Scen_1,Search3	Search_3	1620858677707	1620858737714	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com/10.176.169.33:443 after 60000 ms
+GROUP	Scen_1,Search3	1620858677706	1620858737721	60007	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858740215	1620858770220	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620858740214	1620858770222	30005	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620858773168	1620858773168	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620858773171	1620858773171	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620858773167	1620858773173	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620858775731	1620858775732	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620858775730	1620858775734	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858778801	1620858778802	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620858778801	1620858778802	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620858780879	1620858810886	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_baker	Search_2	1620858810889	1620858810889	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620858780878	1620858810890	30008	KO
+REQUEST	Scen_1,Search3	Search_3	1620858813802	1620858813802	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620858813801	1620858813804	1	KO
+REQUEST	Scen_1,Search3	Search_3	1620858816113	1620858816113	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620858816112	1620858816115	1	KO
+GROUP	Scen_1	1620858593509	1620858817118	145776	KO
+REQUEST	Scen_1,Login	BasePage	1620858817119	1620858817119	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_1	1620858817121	1620858817121	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_2	1620858817124	1620858817124	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_3	1620858817126	1620858817126	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_4	1620858817128	1620858817129	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_5	1620858817131	1620858817131	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Login	1620858817118	1620858817133	6	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858818140	1620858818141	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620858818139	1620858818142	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620858820469	1620858820469	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620858820471	1620858820472	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620858820468	1620858820473	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620858823226	1620858854037	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620858823225	1620858854039	30811	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858856139	1620858856139	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620858856138	1620858856139	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620858858320	1620858858320	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620858858321	1620858858321	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620858858320	1620858858321	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620858860634	1620858860634	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620858860634	1620858860635	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858863450	1620858863450	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620858863450	1620858863451	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620858866164	1620858896176	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_smith	Search_2	1620858896180	1620858896180	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620858866162	1620858896182	30013	KO
+REQUEST	Scen_1,Search3	Search_3	1620858898571	1620858898571	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620858898570	1620858898572	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858901338	1620858901338	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620858901337	1620858901340	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620858903645	1620858903645	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620858903648	1620858903648	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620858903643	1620858903649	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620858905862	1620858905862	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620858905861	1620858905864	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858908826	1620858938838	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620858908825	1620858938839	30012	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620858941338	1620858941338	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620858941341	1620858941341	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620858941337	1620858941342	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620858944307	1620858944307	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620858944306	1620858944309	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858947076	1620858947076	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620858947075	1620858947077	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620858949175	1620858979179	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620858979181	1620858979181	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620858949174	1620858979183	30005	KO
+REQUEST	Scen_1,Search3	Search_3	1620858981876	1620858981876	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620858981874	1620858981878	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620858984244	1620858984244	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620858984243	1620858984245	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620858986881	1620858986881	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620858986883	1620858986883	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620858986879	1620858986885	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620858989275	1620859019280	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620858989274	1620859019281	30005	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859022072	1620859022072	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859022071	1620859022073	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620859024854	1620859024855	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620859024865	1620859024865	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620859024853	1620859024866	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859026925	1620859026925	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859026924	1620859026927	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859029129	1620859029129	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859029128	1620859029130	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620859031471	1620859061475	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_roger	Search_2	1620859061477	1620859061477	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620859031470	1620859061478	30005	KO
+REQUEST	Scen_1,Search3	Search_3	1620859063721	1620859063721	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859063720	1620859063722	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859065843	1620859065843	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859065842	1620859065844	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620859068109	1620859068110	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620859068111	1620859068111	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620859068108	1620859068113	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859070405	1620859070406	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859070404	1620859070407	1	KO
+REQUEST	Scen_1,Search3	Search_3	1620859073247	1620859103251	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620859073247	1620859103252	30004	KO
+GROUP	Scen_1	1620858817118	1620859104255	210892	KO
+REQUEST	Scen_1,Login	BasePage	1620859104256	1620859104257	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_1	1620859104258	1620859104259	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_2	1620859104260	1620859104261	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_3	1620859104262	1620859104263	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_4	1620859104265	1620859104265	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_5	1620859104268	1620859104268	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Login	1620859104256	1620859104269	6	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859105274	1620859105274	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859105273	1620859105275	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620859107921	1620859107921	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620859107923	1620859107923	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620859107920	1620859107924	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859110649	1620859110649	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859110648	1620859110650	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859113222	1620859113222	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859113221	1620859113223	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620859115444	1620859145449	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620859145451	1620859145451	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620859115443	1620859145452	30006	KO
+REQUEST	Scen_1,Search3	Search_3	1620859147750	1620859147750	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859147749	1620859147751	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859150196	1620859150196	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859150195	1620859150197	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620859152615	1620859152615	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620859152617	1620859152617	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620859152614	1620859152618	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859155449	1620859155449	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859155448	1620859155450	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859158188	1620859188200	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620859158187	1620859188201	30012	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620859190721	1620859190721	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620859190724	1620859190724	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620859190720	1620859190725	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859193221	1620859193221	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859193220	1620859193222	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859196222	1620859196222	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859196221	1620859196223	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620859199215	1620859229221	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_baker	Search_2	1620859229224	1620859229224	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620859199214	1620859229225	30007	KO
+REQUEST	Scen_1,Search3	Search_3	1620859232009	1620859232009	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859232008	1620859232010	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859234522	1620859234522	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859234521	1620859234523	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620859237468	1620859237469	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620859237470	1620859237470	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620859237468	1620859237472	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859239676	1620859269681	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620859239675	1620859269682	30005	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859272507	1620859272507	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859272506	1620859272508	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620859275006	1620859275007	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620859275008	1620859275009	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620859275005	1620859275010	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859277549	1620859277549	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859277548	1620859277550	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859280282	1620859310285	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620859280281	1620859310287	30003	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620859312494	1620859312494	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620859312497	1620859312497	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620859312493	1620859312498	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859314829	1620859314829	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859314828	1620859314831	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859317665	1620859317666	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859317665	1620859317667	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620859320516	1620859350520	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_roger	Search_2	1620859350522	1620859350522	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620859320516	1620859350523	30005	KO
+REQUEST	Scen_1,Search3	Search_3	1620859353049	1620859353049	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859353048	1620859353050	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859355488	1620859355488	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859355487	1620859355489	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620859358416	1620859358416	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620859358417	1620859358418	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620859358415	1620859358426	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859361060	1620859391072	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620859361059	1620859391073	30012	KO
+REQUEST	Scen_1,Search3	Search_3	1620859393154	1620859393154	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859393153	1620859393155	1	KO
+GROUP	Scen_1	1620859104255	1620859394161	210087	KO
+REQUEST	Scen_1,Login	BasePage	1620859394162	1620859394163	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_1	1620859394164	1620859394164	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_2	1620859394166	1620859394166	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_3	1620859394168	1620859394168	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_4	1620859394170	1620859394170	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_5	1620859394172	1620859394172	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Login	1620859394162	1620859394174	6	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859395179	1620859395179	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859395179	1620859395181	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620859397721	1620859397721	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620859397724	1620859397724	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620859397720	1620859397726	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859400449	1620859400449	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859400448	1620859400450	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859403271	1620859433274	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620859403271	1620859433275	30003	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620859435508	1620859435509	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620859435510	1620859435511	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620859435507	1620859435512	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859437537	1620859437537	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859437537	1620859437538	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859439562	1620859439562	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859439561	1620859439563	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620859442021	1620859442021	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620859442023	1620859442023	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620859442020	1620859442024	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859444111	1620859474121	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620859444110	1620859474122	30010	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859476851	1620859476851	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859476850	1620859476852	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620859479109	1620859479109	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620859479111	1620859479111	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620859479108	1620859479112	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859481574	1620859481574	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859481573	1620859481575	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859483771	1620859483771	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859483770	1620859483772	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620859486749	1620859516761	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_baker	Search_2	1620859516763	1620859516763	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620859486749	1620859516765	30013	KO
+REQUEST	Scen_1,Search3	Search_3	1620859519248	1620859519248	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859519247	1620859519249	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859521894	1620859521894	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859521893	1620859521895	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620859524363	1620859524363	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620859524364	1620859524364	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620859524362	1620859524365	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859527063	1620859557069	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620859527063	1620859557070	30006	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859559097	1620859559098	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859559097	1620859559099	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620859561918	1620859561918	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620859561920	1620859561920	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620859561918	1620859561921	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859564077	1620859564077	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859564076	1620859564078	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859566729	1620859566729	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859566729	1620859566731	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620859569067	1620859599075	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_smith	Search_2	1620859599076	1620859599076	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620859569067	1620859599077	30009	KO
+REQUEST	Scen_1,Search3	Search_3	1620859601743	1620859601743	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859601742	1620859601744	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859604267	1620859604267	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859604266	1620859604268	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620859606711	1620859606711	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620859606713	1620859606713	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620859606710	1620859606714	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859609067	1620859609067	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859609066	1620859609067	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859611431	1620859641439	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620859611431	1620859641439	30008	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620859644154	1620859644154	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620859644155	1620859644155	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620859644153	1620859644156	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859646313	1620859646313	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859646312	1620859646314	1	KO
+REQUEST	Scen_1,Search3	Search_3	1620859648896	1620859648896	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859648896	1620859648897	1	KO
+GROUP	Scen_1	1620859394162	1620859649899	180088	KO
+REQUEST	Scen_1,Login	BasePage	1620859649899	1620859649899	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_1	1620859649900	1620859649900	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_2	1620859649902	1620859649902	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_3	1620859649903	1620859649903	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_4	1620859649904	1620859649904	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_5	1620859649905	1620859649905	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Login	1620859649899	1620859649906	6	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859650908	1620859650908	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859650908	1620859650909	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620859653729	1620859683734	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620859683735	1620859683735	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620859653728	1620859683736	30006	KO
+REQUEST	Scen_1,Search3	Search_3	1620859685775	1620859685775	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859685775	1620859685776	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859688242	1620859688242	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859688241	1620859688243	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620859690920	1620859690920	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620859690922	1620859690922	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620859690920	1620859690922	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859693206	1620859693206	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859693205	1620859693206	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859695279	1620859725284	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620859695279	1620859725285	30005	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620859727788	1620859727788	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620859727790	1620859727790	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620859727788	1620859727790	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859730042	1620859730042	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859730041	1620859730042	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859732317	1620859732317	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859732316	1620859732317	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620859734358	1620859734358	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620859734360	1620859734360	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620859734358	1620859734361	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859736637	1620859766646	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620859736637	1620859766647	30009	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859768713	1620859768713	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859768712	1620859768714	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620859771347	1620859771347	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620859771348	1620859771348	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620859771346	1620859771349	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859773790	1620859773790	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859773790	1620859773791	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859776123	1620859776123	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859776123	1620859776124	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620859778250	1620859808262	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620859808265	1620859808265	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620859778250	1620859808266	30013	KO
+REQUEST	Scen_1,Search3	Search_3	1620859810704	1620859810704	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859810703	1620859810706	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859813013	1620859813013	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859813012	1620859813014	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620859815235	1620859815235	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620859815237	1620859815238	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620859815234	1620859815239	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859817533	1620859817534	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859817533	1620859817535	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859820184	1620859850190	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620859820183	1620859850191	30006	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620859852271	1620859852271	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620859852274	1620859852274	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620859852270	1620859852275	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859854821	1620859854821	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859854820	1620859854823	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859857677	1620859857677	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859857676	1620859857679	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620859860465	1620859890476	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_roger	Search_2	1620859890479	1620859890479	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620859860464	1620859890481	30012	KO
+REQUEST	Scen_1,Search3	Search_3	1620859892821	1620859892821	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859892820	1620859892823	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859895466	1620859895466	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859895465	1620859895467	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620859897515	1620859897515	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620859897517	1620859897518	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620859897514	1620859897520	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859900015	1620859900015	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859900014	1620859900017	1	KO
+REQUEST	Scen_1,Search3	Search_3	1620859902865	1620859932874	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620859902865	1620859932876	30009	KO
+GROUP	Scen_1	1620859649899	1620859933885	210097	KO
+REQUEST	Scen_1,Login	BasePage	1620859933887	1620859933887	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_1	1620859933889	1620859933889	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_2	1620859933890	1620859933891	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_3	1620859933893	1620859933893	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_4	1620859933895	1620859933895	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_5	1620859933899	1620859933899	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Login	1620859933886	1620859933901	6	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859934905	1620859934905	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859934904	1620859934906	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620859937437	1620859937437	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620859937439	1620859937440	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620859937435	1620859937441	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859940080	1620859940080	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859940079	1620859940082	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859944480	1620859974490	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620859944480	1620859974492	30010	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620859977239	1620859977240	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620859977242	1620859977242	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620859977239	1620859977243	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620859979518	1620859979519	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620859979518	1620859979520	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620859981602	1620859981602	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620859981602	1620859981604	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620859984526	1620860014533	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_smith	Search_2	1620860014536	1620860014536	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620859984525	1620860014537	30008	KO
+REQUEST	Scen_1,Search3	Search_3	1620860018929	1620860018930	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860018929	1620860018930	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860021047	1620860021047	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860021047	1620860021047	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620860023989	1620860023989	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620860023990	1620860023990	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620860023989	1620860023991	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860026465	1620860056470	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620860026464	1620860056471	30005	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860059470	1620860059471	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860059470	1620860059472	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620860061666	1620860061666	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620860061668	1620860061668	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620860061665	1620860061669	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860064420	1620860064420	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860064419	1620860064421	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860067097	1620860097098	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620860067096	1620860097099	30001	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620860099882	1620860099882	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620860099883	1620860099883	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620860099882	1620860099883	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860102447	1620860102447	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860102447	1620860102448	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860105253	1620860105253	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860105252	1620860105255	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620860107412	1620860137415	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620860137418	1620860137418	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620860107411	1620860137420	30004	KO
+REQUEST	Scen_1,Search3	Search_3	1620860139474	1620860139474	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860139473	1620860139475	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860141788	1620860141788	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860141787	1620860141789	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620860143909	1620860143909	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620860143911	1620860143911	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620860143908	1620860143912	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860146237	1620860146238	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860146237	1620860146239	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860148471	1620860178475	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620860148470	1620860178476	30004	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620860180721	1620860180721	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620860180723	1620860180723	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620860180720	1620860180724	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860182937	1620860182937	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860182936	1620860182939	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860185009	1620860185009	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860185008	1620860185010	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620860187471	1620860187471	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620860187473	1620860187473	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620860187470	1620860187474	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860189981	1620860219988	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620860189980	1620860219989	30007	KO
+REQUEST	Scen_1,Search3	Search_3	1620860222799	1620860222799	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860222798	1620860222800	1	KO
+GROUP	Scen_1	1620859933886	1620860223808	210077	KO
+REQUEST	Scen_1,Login	BasePage	1620860223809	1620860223809	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_1	1620860223811	1620860223811	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_2	1620860223813	1620860223813	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_3	1620860223816	1620860223817	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_4	1620860223820	1620860223820	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_5	1620860223823	1620860223823	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Login	1620860223808	1620860223825	6	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860224837	1620860224837	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860224836	1620860224839	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620860227242	1620860227242	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620860227244	1620860227244	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620860227241	1620860227246	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860229808	1620860229808	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860229807	1620860229810	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860232696	1620860262705	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620860232695	1620860262706	30009	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620860265658	1620860265659	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620860265661	1620860265661	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620860265658	1620860265662	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860267950	1620860267950	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860267949	1620860267951	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860270907	1620860270907	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860270906	1620860270908	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620860273740	1620860303742	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_smith	Search_2	1620860303744	1620860303744	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620860273739	1620860303745	30003	KO
+REQUEST	Scen_1,Search3	Search_3	1620860305845	1620860305845	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860305844	1620860305846	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860308218	1620860308218	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860308217	1620860308219	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620860311054	1620860311055	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620860311057	1620860311057	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620860311054	1620860311058	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860313497	1620860313497	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860313496	1620860313498	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860316390	1620860346393	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620860316390	1620860346394	30003	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620860348591	1620860348591	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620860348593	1620860348593	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620860348591	1620860348594	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860350746	1620860350746	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860350745	1620860350747	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860353508	1620860353508	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860353507	1620860353509	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620860356332	1620860356333	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620860356334	1620860356335	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620860356332	1620860356336	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860359071	1620860389083	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620860359070	1620860389084	30012	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860391745	1620860391745	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860391744	1620860391746	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620860394371	1620860394371	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620860394372	1620860394373	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620860394370	1620860394374	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860397021	1620860397021	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860397020	1620860397022	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860399946	1620860429955	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620860399945	1620860429956	30009	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620860432882	1620860432883	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620860432884	1620860432884	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620860432882	1620860432885	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860435612	1620860435612	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860435611	1620860435613	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860437916	1620860437916	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860437916	1620860437917	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620860440546	1620860470555	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_roger	Search_2	1620860470557	1620860470557	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620860440545	1620860470558	30010	KO
+REQUEST	Scen_1,Search3	Search_3	1620860473004	1620860473004	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860473003	1620860473005	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860475972	1620860475972	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860475971	1620860475973	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620860478521	1620860478521	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620860478523	1620860478523	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620860478521	1620860478524	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860481220	1620860511223	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620860481219	1620860511224	30003	KO
+REQUEST	Scen_1,Search3	Search_3	1620860513367	1620860513367	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860513366	1620860513368	1	KO
+GROUP	Scen_1	1620860223808	1620860514371	210087	KO
+REQUEST	Scen_1,Login	BasePage	1620860514372	1620860514372	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_1	1620860514373	1620860514374	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_2	1620860514375	1620860514375	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_3	1620860514377	1620860514377	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_4	1620860514378	1620860514379	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,Login	BasePage_5	1620860514380	1620860514380	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Login	1620860514371	1620860514382	6	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860515389	1620860515390	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860515388	1620860515391	1	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620860517665	1620860517665	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620860517666	1620860517666	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620860517664	1620860517667	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860520376	1620860520376	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860520375	1620860520377	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860523316	1620860553319	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620860523315	1620860553320	30003	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620860556046	1620860556046	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620860556048	1620860556048	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620860556045	1620860556049	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860558441	1620860558441	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860558440	1620860558442	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860560721	1620860560721	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860560720	1620860560722	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620860563485	1620860593489	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_smith	Search_2	1620860593491	1620860593491	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620860563484	1620860593492	30005	KO
+REQUEST	Scen_1,Search3	Search_3	1620860596226	1620860596226	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860596225	1620860596227	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860598981	1620860598981	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860598981	1620860598982	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620860601715	1620860601715	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620860601717	1620860601717	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620860601715	1620860601718	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860603889	1620860633891	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620860603888	1620860633893	30002	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860636754	1620860636754	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860636753	1620860636755	1	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620860639653	1620860639653	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620860639655	1620860639655	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620860639653	1620860639656	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860642375	1620860642375	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860642375	1620860642376	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860644656	1620860674660	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620860644655	1620860674661	30004	KO
+REQUEST	Scen_1,SearchName_douglas	Search_1	1620860677007	1620860677007	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_douglas	Search_2	1620860677009	1620860677009	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_douglas	1620860677007	1620860677010	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860679747	1620860679747	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860679747	1620860679748	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860682687	1620860682687	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860682686	1620860682688	1	KO
+REQUEST	Scen_1,SearchName_thomas	Search_1	1620860685552	1620860715554	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+REQUEST	Scen_1,SearchName_thomas	Search_2	1620860715555	1620860715556	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_thomas	1620860685551	1620860715557	30003	KO
+REQUEST	Scen_1,Search3	Search_3	1620860717839	1620860717839	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860717838	1620860717840	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860720534	1620860720534	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860720533	1620860720535	1	KO
+REQUEST	Scen_1,SearchName_smith	Search_1	1620860722968	1620860722968	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_smith	Search_2	1620860722970	1620860722970	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_smith	1620860722967	1620860722971	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860725906	1620860755914	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,Search3	1620860725905	1620860755915	30008	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860758048	1620860758048	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchByActiveMember	1620860758047	1620860758049	1	KO
+REQUEST	Scen_1,SearchName_roger	Search_1	1620860760989	1620860760989	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_roger	Search_2	1620860760990	1620860760990	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_roger	1620860760988	1620860760991	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860763634	1620860763634	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860763633	1620860763635	1	KO
+REQUEST	Scen_1,SearchByActiveMember	Select_SearchByActiveMember	1620860766488	1620860796490	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	Scen_1,SearchByActiveMember	1620860766487	1620860796491	30002	KO
+REQUEST	Scen_1,SearchName_baker	Search_1	1620860799052	1620860799052	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+REQUEST	Scen_1,SearchName_baker	Search_2	1620860799054	1620860799054	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,SearchName_baker	1620860799051	1620860799055	2	KO
+REQUEST	Scen_1,Search3	Search_3	1620860801381	1620860801381	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860801381	1620860801382	1	KO
+REQUEST	Scen_1,Search3	Search_3	1620860803490	1620860803490	KO	j.n.UnknownHostException: coho-advocate-ui-coho-qa3.origin-elr-core-nonprod.optum.com
+GROUP	Scen_1,Search3	1620860803489	1620860803491	1	KO
+GROUP	Scen_1	1620860514371	1620860804501	210065	KO
+USER	Users_1	END	1620860804505

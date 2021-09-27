@@ -1,0 +1,65 @@
+RUN	MarsTest.Framework.MarsSim	marssim	1623879031668	MarsTest.Framework.MarsSim-SIMULATION_1_2:SIMULATION_2_0:SIMULATION_3_0:Iterations_10	3.5.1
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033171	1623879033172	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033157	1623879033174	1	KO
+GROUP	MarsTestApi / API	1623879033156	1623879033175	1	KO
+USER	MarsTestApi5	START	1623879033154
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033176	1623879033176	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033176	1623879033176	1	KO
+GROUP	MarsTestApi / API	1623879033176	1623879033176	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033177	1623879033177	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033176	1623879033177	1	KO
+GROUP	MarsTestApi / API	1623879033176	1623879033177	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033177	1623879033177	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033177	1623879033177	1	KO
+GROUP	MarsTestApi / API	1623879033177	1623879033177	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033177	1623879033177	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033177	1623879033177	1	KO
+GROUP	MarsTestApi / API	1623879033177	1623879033177	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033178	1623879033178	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033177	1623879033178	1	KO
+GROUP	MarsTestApi / API	1623879033177	1623879033178	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033178	1623879033178	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033178	1623879033178	1	KO
+GROUP	MarsTestApi / API	1623879033178	1623879033178	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033178	1623879033178	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033178	1623879033178	1	KO
+GROUP	MarsTestApi / API	1623879033178	1623879033178	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033179	1623879033179	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033178	1623879033179	1	KO
+GROUP	MarsTestApi / API	1623879033178	1623879033179	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879033179	1623879033179	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879033179	1623879033179	1	KO
+GROUP	MarsTestApi / API	1623879033179	1623879033179	1	KO
+USER	MarsTestApi5	END	1623879033180
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038146	1623879038146	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038146	1623879038146	1	KO
+GROUP	MarsTestApi / API	1623879038146	1623879038146	1	KO
+USER	MarsTestApi5	START	1623879038146
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038147	1623879038147	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038146	1623879038147	1	KO
+GROUP	MarsTestApi / API	1623879038146	1623879038147	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038147	1623879038147	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038147	1623879038147	1	KO
+GROUP	MarsTestApi / API	1623879038147	1623879038147	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038147	1623879038147	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038147	1623879038147	1	KO
+GROUP	MarsTestApi / API	1623879038147	1623879038147	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038148	1623879038148	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038148	1623879038148	1	KO
+GROUP	MarsTestApi / API	1623879038148	1623879038148	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038148	1623879038148	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038148	1623879038148	1	KO
+GROUP	MarsTestApi / API	1623879038148	1623879038148	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038148	1623879038149	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038148	1623879038149	1	KO
+GROUP	MarsTestApi / API	1623879038148	1623879038149	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038149	1623879038149	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038149	1623879038149	1	KO
+GROUP	MarsTestApi / API	1623879038149	1623879038149	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038149	1623879038149	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038149	1623879038149	1	KO
+GROUP	MarsTestApi / API	1623879038149	1623879038149	1	KO
+REQUEST	MarsTestApi / API,GetProviderAddress		1623879038150	1623879038150	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestApi / API,GetProviderAddress	1623879038149	1623879038150	1	KO
+GROUP	MarsTestApi / API	1623879038149	1623879038150	1	KO
+USER	MarsTestApi5	END	1623879038150

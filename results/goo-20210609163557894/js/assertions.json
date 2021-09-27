@@ -1,0 +1,10 @@
+{
+  "simulation": "GOO.Framework.GOO",
+  "simulationId": "goo",
+  "start": 1623256557894,
+  "description": "",
+  "scenarios": ["Users_1"],
+  "assertions": [
+
+  ]
+}

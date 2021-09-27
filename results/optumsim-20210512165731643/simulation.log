@@ -1,0 +1,89 @@
+RUN	Optum.Framework.OptumSim	optumsim	1620838651643	 	3.5.1
+USER	Users_2	START	1620838653196
+USER	Users_3	START	1620838653196
+USER	Users_1	START	1620838653196
+USER	Users_4	START	1620838653196
+REQUEST	Scen_4,ChangeColumns,Login	request_0	1620838653222	1620838653222	KO	j.n.UnknownHostException: null
+REQUEST	Scen_1,Login	Login_0	1620838653222	1620838653222	KO	j.n.UnknownHostException: null
+REQUEST	Scen_2,Login	Login_0	1620838653222	1620838653222	KO	j.n.UnknownHostException: null
+REQUEST	Scen_3,Login	Login_0	1620838653222	1620838653222	KO	j.n.UnknownHostException: null
+ERROR	Login_1: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653228
+ERROR	Login_1: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653228
+ERROR	request_1: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653228
+ERROR	Login_1: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653228
+REQUEST	Scen_4,ChangeColumns,Login	request_2	1620838653231	1620838653231	KO	j.n.UnknownHostException: null
+ERROR	Login_2: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_2: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	request_3: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_2: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_3: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_3: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_3: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	request_4: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_4: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_4: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_4: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	request_5: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_5: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_5: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_5: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	request_6: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_6: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_6: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_6: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	request_7: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653233
+ERROR	Login_7: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	request_8: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_7: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_7: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_8: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	request_9: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_8: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_8: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_9: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_9: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	request_10: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_9: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_10: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_10: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	request_11: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_10: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_11: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_11: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	request_12: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_11: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_12: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_12: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	request_13: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_12: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653234
+ERROR	Login_13: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	Login_13: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	Login_13: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	request_14: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	Login_14: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	Login_14: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	Login_14: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	request_15: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	Login_16: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	Login_16: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	Login_16: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	request_16: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	request_17: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+GROUP	Scen_1,Login	1620838653204	1620838653235	1	KO
+GROUP	Scen_3,Login	1620838653204	1620838653235	1	KO
+GROUP	Scen_2,Login	1620838653204	1620838653235	1	KO
+ERROR	request_18: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	request_0: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653235
+ERROR	request_0: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_19: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_0: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_1: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_1: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_2: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_20: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_1: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+GROUP	Scen_4,ChangeColumns,Login	1620838653205	1620838653236	2	KO
+ERROR	request_2: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_2: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	request_21: Failed to build request: No attribute named 'p_csrf' is defined 	1620838653236
+ERROR	

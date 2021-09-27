@@ -1,0 +1,10 @@
+{
+  "simulation": "Boo2.Framework.Boo2",
+  "simulationId": "boo2",
+  "start": 1623428962389,
+  "description": "",
+  "scenarios": ["Boo2"],
+  "assertions": [
+
+  ]
+}

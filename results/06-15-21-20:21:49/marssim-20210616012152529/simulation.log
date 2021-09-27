@@ -1,0 +1,18 @@
+RUN	MarsTest.Framework.MarsSim	marssim	1623806512529	MarsTest.Framework.MarsSim-SIMULATION_1_1:SIMULATION_2_1:SIMULATION_3_1:Iterations_1	3.5.1
+REQUEST	MarsTest / APIs,SearchByMetaData		1623806513934	1623806513934	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTest / APIs,SearchByMetaData	1623806513921	1623806513941	1	KO
+USER	MarsTest	START	1623806513918
+REQUEST	MarsTest / APIs,GetDocumentById		1623806514943	1623806514943	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTest / APIs,GetDocumentById	1623806514943	1623806514944	1	KO
+REQUEST	MarsTest / APIs,FindAllStates		1623806515945	1623806515945	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTest / APIs,FindAllStates	1623806515945	1623806515946	1	KO
+REQUEST	MarsTest / APIs,GetClusterByProviderType		1623806516948	1623806516949	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTest / APIs,GetClusterByProviderType	1623806516948	1623806516949	1	KO
+REQUEST	MarsTest / APIs,GetProviderAddress		1623806517954	1623806517954	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTest / APIs,GetProviderAddress	1623806517953	1623806517954	1	KO
+REQUEST	MarsTest / APIs,GetProviderName		1623806518959	1623806518959	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTest / APIs,GetProviderName	1623806518958	1623806518960	1	KO
+REQUEST	MarsTest / APIs,findMemberLinxById		1623806519961	1623806519961	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTest / APIs,findMemberLinxById	1623806519961	1623806519962	1	KO
+GROUP	MarsTest / APIs	1623806513920	1623806520963	7	KO
+USER	MarsTest	END	1623806520965

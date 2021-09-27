@@ -1,0 +1,1285 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 14,
+        "ok": 14,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 83,
+        "ok": 83,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2175,
+        "ok": 2175,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 489,
+        "ok": 489,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 697,
+        "ok": 697,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 146,
+        "ok": 146,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 378,
+        "ok": 378,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 2140,
+        "ok": 2140,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 2168,
+        "ok": 2168,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 12,
+    "percentage": 86
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 2,
+    "percentage": 14
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.6666666666666666,
+        "ok": 0.6666666666666666,
+        "ko": 0
+    }
+},
+"contents": {
+"group_marstest---apis-0f675": {
+          "type": "GROUP",
+"name": "MarsTest / APIs",
+"path": "MarsTest / APIs",
+"pathFormatted": "group_marstest---apis-0f675",
+"stats": {
+    "name": "MarsTest / APIs",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 3149,
+        "ok": 3149,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 3693,
+        "ok": 3693,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 3421,
+        "ok": 3421,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 272,
+        "ok": 272,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 3421,
+        "ok": 3421,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 3557,
+        "ok": 3557,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 3666,
+        "ok": 3666,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 3688,
+        "ok": 3688,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+},
+"contents": {
+"group_searchbymetadat-851fc": {
+          "type": "GROUP",
+"name": "SearchByMetaData",
+"path": "MarsTest / APIs / SearchByMetaData",
+"pathFormatted": "group_marstest---apis-82fb2",
+"stats": {
+    "name": "SearchByMetaData",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 2121,
+        "ok": 2121,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2175,
+        "ok": 2175,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 2148,
+        "ok": 2148,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 27,
+        "ok": 27,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 2148,
+        "ok": 2148,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 2162,
+        "ok": 2162,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 2172,
+        "ok": 2172,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 2174,
+        "ok": 2174,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+},
+"contents": {
+"req_missing-name-b06d1": {
+        "type": "REQUEST",
+        "name": "",
+"path": "MarsTest / APIs / SearchByMetaData / ",
+"pathFormatted": "req_marstest---apis-f61fd",
+"stats": {
+    "name": "",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 2121,
+        "ok": 2121,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2175,
+        "ok": 2175,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 2148,
+        "ok": 2148,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 27,
+        "ok": 27,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 2148,
+        "ok": 2148,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 2162,
+        "ok": 2162,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 2172,
+        "ok": 2172,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 2174,
+        "ok": 2174,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+}
+    }
+}
+
+     },"group_getdocumentbyid-ffdc4": {
+          "type": "GROUP",
+"name": "GetDocumentById",
+"path": "MarsTest / APIs / GetDocumentById",
+"pathFormatted": "group_marstest---apis-c4ed7",
+"stats": {
+    "name": "GetDocumentById",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 217,
+        "ok": 217,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 691,
+        "ok": 691,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 454,
+        "ok": 454,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 237,
+        "ok": 237,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 454,
+        "ok": 454,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 573,
+        "ok": 573,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 667,
+        "ok": 667,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 686,
+        "ok": 686,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+},
+"contents": {
+"req_missing-name-b06d1": {
+        "type": "REQUEST",
+        "name": "",
+"path": "MarsTest / APIs / GetDocumentById / ",
+"pathFormatted": "req_marstest---apis-7b9e1",
+"stats": {
+    "name": "",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 217,
+        "ok": 217,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 691,
+        "ok": 691,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 454,
+        "ok": 454,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 237,
+        "ok": 237,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 454,
+        "ok": 454,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 573,
+        "ok": 573,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 667,
+        "ok": 667,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 686,
+        "ok": 686,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+}
+    }
+}
+
+     },"group_findallstates-1fc6a": {
+          "type": "GROUP",
+"name": "FindAllStates",
+"path": "MarsTest / APIs / FindAllStates",
+"pathFormatted": "group_marstest---apis-1cdf6",
+"stats": {
+    "name": "FindAllStates",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 114,
+        "ok": 114,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 115,
+        "ok": 115,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 115,
+        "ok": 115,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+},
+"contents": {
+"req_missing-name-b06d1": {
+        "type": "REQUEST",
+        "name": "",
+"path": "MarsTest / APIs / FindAllStates / ",
+"pathFormatted": "req_marstest---apis-4ac8c",
+"stats": {
+    "name": "",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 114,
+        "ok": 114,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 115,
+        "ok": 115,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 115,
+        "ok": 115,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+}
+    }
+}
+
+     },"group_getclusterbypro-79312": {
+          "type": "GROUP",
+"name": "GetClusterByProviderType",
+"path": "MarsTest / APIs / GetClusterByProviderType",
+"pathFormatted": "group_marstest---apis-90d56",
+"stats": {
+    "name": "GetClusterByProviderType",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 176,
+        "ok": 176,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 146,
+        "ok": 146,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 30,
+        "ok": 30,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 146,
+        "ok": 146,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 161,
+        "ok": 161,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 173,
+        "ok": 173,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 175,
+        "ok": 175,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+},
+"contents": {
+"req_missing-name-b06d1": {
+        "type": "REQUEST",
+        "name": "",
+"path": "MarsTest / APIs / GetClusterByProviderType / ",
+"pathFormatted": "req_marstest---apis-5b8f6",
+"stats": {
+    "name": "",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 116,
+        "ok": 116,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 176,
+        "ok": 176,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 146,
+        "ok": 146,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 30,
+        "ok": 30,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 146,
+        "ok": 146,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 161,
+        "ok": 161,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 173,
+        "ok": 173,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 175,
+        "ok": 175,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+}
+    }
+}
+
+     },"group_getprovideraddr-8dd8e": {
+          "type": "GROUP",
+"name": "GetProviderAddress",
+"path": "MarsTest / APIs / GetProviderAddress",
+"pathFormatted": "group_marstest---apis-69a88",
+"stats": {
+    "name": "GetProviderAddress",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 83,
+        "ok": 83,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 86,
+        "ok": 86,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 85,
+        "ok": 85,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 85,
+        "ok": 85,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 85,
+        "ok": 85,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 86,
+        "ok": 86,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 86,
+        "ok": 86,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+},
+"contents": {
+"req_missing-name-b06d1": {
+        "type": "REQUEST",
+        "name": "",
+"path": "MarsTest / APIs / GetProviderAddress / ",
+"pathFormatted": "req_marstest---apis-e4576",
+"stats": {
+    "name": "",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 83,
+        "ok": 83,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 86,
+        "ok": 86,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 85,
+        "ok": 85,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 85,
+        "ok": 85,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 85,
+        "ok": 85,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 86,
+        "ok": 86,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 86,
+        "ok": 86,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+}
+    }
+}
+
+     },"group_getprovidername-2a001": {
+          "type": "GROUP",
+"name": "GetProviderName",
+"path": "MarsTest / APIs / GetProviderName",
+"pathFormatted": "group_marstest---apis-c4bd1",
+"stats": {
+    "name": "GetProviderName",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 90,
+        "ok": 90,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 110,
+        "ok": 110,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 100,
+        "ok": 100,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 10,
+        "ok": 10,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 100,
+        "ok": 100,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 105,
+        "ok": 105,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 109,
+        "ok": 109,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 110,
+        "ok": 110,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+},
+"contents": {
+"req_missing-name-b06d1": {
+        "type": "REQUEST",
+        "name": "",
+"path": "MarsTest / APIs / GetProviderName / ",
+"pathFormatted": "req_marstest---apis-6dee1",
+"stats": {
+    "name": "",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 90,
+        "ok": 90,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 110,
+        "ok": 110,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 100,
+        "ok": 100,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 10,
+        "ok": 10,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 100,
+        "ok": 100,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 105,
+        "ok": 105,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 109,
+        "ok": 109,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 110,
+        "ok": 110,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+}
+    }
+}
+
+     },"group_findmemberlinxb-9fa3a": {
+          "type": "GROUP",
+"name": "findMemberLinxById",
+"path": "MarsTest / APIs / findMemberLinxById",
+"pathFormatted": "group_marstest---apis-ac60e",
+"stats": {
+    "name": "findMemberLinxById",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 364,
+        "ok": 364,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 383,
+        "ok": 383,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 374,
+        "ok": 374,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 10,
+        "ok": 10,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 374,
+        "ok": 374,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 378,
+        "ok": 378,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 382,
+        "ok": 382,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 383,
+        "ok": 383,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+},
+"contents": {
+"req_missing-name-b06d1": {
+        "type": "REQUEST",
+        "name": "",
+"path": "MarsTest / APIs / findMemberLinxById / ",
+"pathFormatted": "req_marstest---apis-80803",
+"stats": {
+    "name": "",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 364,
+        "ok": 364,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 383,
+        "ok": 383,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 374,
+        "ok": 374,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 10,
+        "ok": 10,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 374,
+        "ok": 374,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 378,
+        "ok": 378,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 382,
+        "ok": 382,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 383,
+        "ok": 383,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.09523809523809523,
+        "ok": 0.09523809523809523,
+        "ko": 0
+    }
+}
+    }
+}
+
+     }
+}
+
+     }
+}
+
+}

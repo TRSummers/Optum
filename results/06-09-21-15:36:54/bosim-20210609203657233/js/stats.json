@@ -1,0 +1,325 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.07142857142857142,
+        "ok": 0.07142857142857142,
+        "ko": 0
+    }
+},
+"contents": {
+"group_lname-108f3": {
+          "type": "GROUP",
+"name": "LName",
+"path": "LName",
+"pathFormatted": "group_lname-108f3",
+"stats": {
+    "name": "LName",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.07142857142857142,
+        "ok": 0.07142857142857142,
+        "ko": 0
+    }
+},
+"contents": {
+"group_ln-faccf": {
+          "type": "GROUP",
+"name": "LN",
+"path": "LName / LN",
+"pathFormatted": "group_lname---ln-0ae7a",
+"stats": {
+    "name": "LN",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.07142857142857142,
+        "ok": 0.07142857142857142,
+        "ko": 0
+    }
+},
+"contents": {
+"req_lname-smith-wi-5f9c3": {
+        "type": "REQUEST",
+        "name": "LName_Smith_WI",
+"path": "LName / LN / LName_Smith_WI",
+"pathFormatted": "req_lname---ln---ln-3ab2b",
+"stats": {
+    "name": "LName_Smith_WI",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 11447,
+        "ok": 11447,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.07142857142857142,
+        "ok": 0.07142857142857142,
+        "ko": 0
+    }
+}
+    }
+}
+
+     }
+}
+
+     }
+}
+
+}

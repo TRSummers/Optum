@@ -1,0 +1,10 @@
+{
+  "simulation": "JJ.Framework.JJSim",
+  "simulationId": "jjsim",
+  "start": 1623250689176,
+  "description": "JJ.Framework.JJSim-SIMULATION_1_1:SIMULATION_2_0:SIMULATION_3_0:SIMULATION_4_:Iterations_1",
+  "scenarios": ["Users_1"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "BO.Framework.BOSim",
+  "simulationId": "bosim",
+  "start": 1623259627430,
+  "description": "BO.Framework.BOSim-SIMULATION_1_0:SIMULATION_2_0:SIMULATION_3_1:Iterations_2",
+  "scenarios": ["Users_3"],
+  "assertions": [
+
+  ]
+}

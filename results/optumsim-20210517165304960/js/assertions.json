@@ -1,0 +1,10 @@
+{
+  "simulation": "Optum.Framework.OptumSim",
+  "simulationId": "optumsim",
+  "start": 1621270384960,
+  "description": "",
+  "scenarios": ["Users_1"],
+  "assertions": [
+
+  ]
+}

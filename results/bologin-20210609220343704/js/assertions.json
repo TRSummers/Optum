@@ -1,0 +1,10 @@
+{
+  "simulation": "BOLogin",
+  "simulationId": "bologin",
+  "start": 1623276223704,
+  "description": "",
+  "scenarios": ["BOLogin"],
+  "assertions": [
+
+  ]
+}

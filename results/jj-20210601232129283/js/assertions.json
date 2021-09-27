@@ -1,0 +1,10 @@
+{
+  "simulation": "JJ.Framework.JJ",
+  "simulationId": "jj",
+  "start": 1622589689283,
+  "description": "",
+  "scenarios": ["JJ"],
+  "assertions": [
+
+  ]
+}

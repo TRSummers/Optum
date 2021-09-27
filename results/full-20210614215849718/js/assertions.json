@@ -1,0 +1,10 @@
+{
+  "simulation": "full",
+  "simulationId": "full",
+  "start": 1623707929718,
+  "description": "",
+  "scenarios": ["full"],
+  "assertions": [
+
+  ]
+}

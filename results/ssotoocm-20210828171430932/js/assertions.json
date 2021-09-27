@@ -1,0 +1,10 @@
+{
+  "simulation": "SSOtoOCM",
+  "simulationId": "ssotoocm",
+  "start": 1630170870932,
+  "description": "",
+  "scenarios": ["SSOtoOCM"],
+  "assertions": [
+
+  ]
+}

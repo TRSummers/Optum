@@ -1,0 +1,654 @@
+RUN	MarsTest.Framework.MarsSim	marssim	1632177014186	MarsTest.Framework.MarsSim-SIMULATION_1_10:SIMULATION_2_0:SIMULATION_3_0:Iterations_100	3.5.1
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177015530	1632177015530	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177015514	1632177015533	1	KO
+USER	MarsTestALL	START	1632177015510
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177015607	1632177015607	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177015607	1632177015607	1	KO
+USER	MarsTestALL	START	1632177015607
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177015706	1632177015706	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177015705	1632177015706	1	KO
+USER	MarsTestALL	START	1632177015705
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177015807	1632177015807	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177015806	1632177015807	1	KO
+USER	MarsTestALL	START	1632177015806
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177015911	1632177015911	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177015910	1632177015911	1	KO
+USER	MarsTestALL	START	1632177015910
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177016006	1632177016006	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177016006	1632177016006	1	KO
+USER	MarsTestALL	START	1632177016006
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177016112	1632177016112	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177016111	1632177016112	1	KO
+USER	MarsTestALL	START	1632177016111
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177016209	1632177016209	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177016208	1632177016209	1	KO
+USER	MarsTestALL	START	1632177016208
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177016307	1632177016307	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177016307	1632177016308	1	KO
+USER	MarsTestALL	START	1632177016307
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177016412	1632177016412	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177016412	1632177016413	1	KO
+USER	MarsTestALL	START	1632177016412
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177016536	1632177016536	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177016535	1632177016536	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177016613	1632177016613	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177016612	1632177016613	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177016712	1632177016712	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177016711	1632177016712	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177016813	1632177016813	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177016812	1632177016813	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177016912	1632177016913	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177016912	1632177016913	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177017012	1632177017012	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177017012	1632177017013	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177017117	1632177017117	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177017116	1632177017117	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177017213	1632177017213	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177017212	1632177017213	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177017314	1632177017314	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177017313	1632177017314	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177017419	1632177017419	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177017418	1632177017419	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177017538	1632177017538	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177017537	1632177017538	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177017614	1632177017614	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177017614	1632177017615	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177017717	1632177017717	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177017716	1632177017717	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177017818	1632177017818	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177017817	1632177017818	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177017916	1632177017916	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177017915	1632177017916	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177018016	1632177018017	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177018016	1632177018017	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177018122	1632177018122	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177018121	1632177018122	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177018218	1632177018218	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177018218	1632177018219	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177018316	1632177018316	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177018315	1632177018316	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177018424	1632177018424	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177018423	1632177018424	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177018542	1632177018542	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177018541	1632177018542	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177018619	1632177018619	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177018618	1632177018619	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177018721	1632177018721	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177018721	1632177018722	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177018823	1632177018823	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177018823	1632177018824	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177018918	1632177018918	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177018917	1632177018918	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177019022	1632177019022	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177019021	1632177019022	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177019127	1632177019127	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177019126	1632177019127	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177019221	1632177019222	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177019221	1632177019222	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177019317	1632177019317	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177019316	1632177019317	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177019426	1632177019426	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177019426	1632177019427	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177019544	1632177019544	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177019544	1632177019545	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177019621	1632177019621	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177019621	1632177019622	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177019726	1632177019726	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177019725	1632177019726	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177019826	1632177019827	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177019826	1632177019827	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177019920	1632177019920	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177019920	1632177019920	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177020026	1632177020026	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177020026	1632177020027	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177020132	1632177020132	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177020131	1632177020132	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177020225	1632177020225	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177020224	1632177020225	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177020322	1632177020322	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177020322	1632177020322	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177020428	1632177020428	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177020427	1632177020428	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177020549	1632177020549	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177020549	1632177020549	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177020624	1632177020624	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177020623	1632177020624	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177020728	1632177020728	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177020728	1632177020728	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177020832	1632177020832	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177020831	1632177020832	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177020924	1632177020924	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177020924	1632177020925	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177021031	1632177021032	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177021031	1632177021032	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177021137	1632177021137	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177021136	1632177021137	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177021227	1632177021227	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177021226	1632177021227	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177021324	1632177021324	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177021323	1632177021324	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177021429	1632177021429	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177021429	1632177021429	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177021555	1632177021555	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177021554	1632177021555	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177021626	1632177021627	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177021626	1632177021627	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177021731	1632177021731	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177021730	1632177021731	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177021837	1632177021837	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177021836	1632177021837	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177021929	1632177021930	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177021929	1632177021930	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177022037	1632177022037	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177022036	1632177022037	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177022142	1632177022142	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177022142	1632177022142	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177022229	1632177022229	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177022229	1632177022229	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177022327	1632177022327	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177022326	1632177022327	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177022434	1632177022434	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177022434	1632177022435	1	KO
+GROUP	MarsTestALL / APIs	1632177015513	1632177022558	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177022559	1632177022559	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177022559	1632177022560	1	KO
+GROUP	MarsTestALL / APIs	1632177015607	1632177022631	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177022632	1632177022632	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177022632	1632177022632	1	KO
+GROUP	MarsTestALL / APIs	1632177015705	1632177022735	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177022736	1632177022736	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177022735	1632177022736	1	KO
+GROUP	MarsTestALL / APIs	1632177015806	1632177022841	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177022842	1632177022842	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177022842	1632177022842	1	KO
+GROUP	MarsTestALL / APIs	1632177015910	1632177022934	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177022935	1632177022935	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177022935	1632177022935	1	KO
+GROUP	MarsTestALL / APIs	1632177016006	1632177023042	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177023043	1632177023043	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177023043	1632177023043	1	KO
+GROUP	MarsTestALL / APIs	1632177016111	1632177023147	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177023148	1632177023148	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177023147	1632177023148	1	KO
+GROUP	MarsTestALL / APIs	1632177016208	1632177023231	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177023232	1632177023232	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177023232	1632177023232	1	KO
+GROUP	MarsTestALL / APIs	1632177016307	1632177023331	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177023332	1632177023332	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177023332	1632177023332	1	KO
+GROUP	MarsTestALL / APIs	1632177016412	1632177023435	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177023436	1632177023436	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177023435	1632177023436	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177023560	1632177023560	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177023560	1632177023560	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177023636	1632177023636	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177023636	1632177023636	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177023738	1632177023738	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177023737	1632177023738	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177023846	1632177023846	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177023846	1632177023847	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177023936	1632177023936	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177023936	1632177023937	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177024045	1632177024045	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177024045	1632177024046	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177024153	1632177024153	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177024152	1632177024153	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177024236	1632177024236	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177024235	1632177024236	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177024336	1632177024336	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177024336	1632177024336	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177024441	1632177024441	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177024440	1632177024441	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177024566	1632177024566	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177024566	1632177024567	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177024642	1632177024642	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177024642	1632177024643	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177024742	1632177024742	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177024741	1632177024742	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177024851	1632177024852	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177024851	1632177024852	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177024941	1632177024941	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177024941	1632177024942	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177025047	1632177025047	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177025047	1632177025048	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177025156	1632177025156	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177025155	1632177025156	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177025238	1632177025238	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177025237	1632177025238	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177025341	1632177025341	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177025341	1632177025342	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177025446	1632177025446	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177025445	1632177025446	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177025569	1632177025570	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177025569	1632177025570	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177025646	1632177025646	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177025646	1632177025646	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177025746	1632177025746	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177025745	1632177025746	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177025858	1632177025858	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177025857	1632177025858	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177025946	1632177025946	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177025946	1632177025947	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177026051	1632177026051	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177026050	1632177026051	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177026158	1632177026159	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177026158	1632177026159	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177026242	1632177026242	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177026242	1632177026242	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177026346	1632177026346	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177026346	1632177026347	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177026447	1632177026447	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177026447	1632177026448	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177026574	1632177026574	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177026574	1632177026575	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177026651	1632177026651	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177026651	1632177026652	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177026750	1632177026751	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177026750	1632177026751	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177026860	1632177026860	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177026859	1632177026860	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177026953	1632177026953	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177026952	1632177026953	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177027056	1632177027056	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177027055	1632177027056	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177027161	1632177027161	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177027160	1632177027161	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177027246	1632177027246	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177027245	1632177027246	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177027352	1632177027352	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177027351	1632177027352	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177027451	1632177027452	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177027451	1632177027452	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177027576	1632177027576	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177027576	1632177027576	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177027656	1632177027656	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177027655	1632177027656	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177027755	1632177027756	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177027755	1632177027756	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177027861	1632177027862	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177027861	1632177027862	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177027957	1632177027957	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177027956	1632177027957	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177028058	1632177028059	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177028058	1632177028059	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177028166	1632177028166	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177028165	1632177028166	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177028249	1632177028249	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177028247	1632177028249	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177028357	1632177028357	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177028356	1632177028357	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177028456	1632177028456	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177028455	1632177028456	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177028581	1632177028581	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177028581	1632177028581	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177028658	1632177028658	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177028658	1632177028659	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177028759	1632177028759	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177028758	1632177028759	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177028865	1632177028866	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177028865	1632177028866	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177028958	1632177028958	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177028958	1632177028958	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177029060	1632177029060	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177029060	1632177029060	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177029171	1632177029171	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177029170	1632177029171	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177029250	1632177029250	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177029249	1632177029250	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177029361	1632177029361	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177029361	1632177029361	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177029458	1632177029459	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177029458	1632177029459	1	KO
+GROUP	MarsTestALL / APIs	1632177022559	1632177029585	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177029586	1632177029586	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177029586	1632177029586	1	KO
+GROUP	MarsTestALL / APIs	1632177022631	1632177029662	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177029663	1632177029663	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177029662	1632177029663	1	KO
+GROUP	MarsTestALL / APIs	1632177022735	1632177029763	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177029764	1632177029764	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177029764	1632177029764	1	KO
+GROUP	MarsTestALL / APIs	1632177022842	1632177029871	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177029872	1632177029872	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177029871	1632177029872	1	KO
+GROUP	MarsTestALL / APIs	1632177022934	1632177029960	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177029960	1632177029960	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177029960	1632177029960	1	KO
+GROUP	MarsTestALL / APIs	1632177023043	1632177030062	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177030062	1632177030062	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177030062	1632177030062	1	KO
+GROUP	MarsTestALL / APIs	1632177023147	1632177030175	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177030176	1632177030176	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177030175	1632177030176	1	KO
+GROUP	MarsTestALL / APIs	1632177023232	1632177030254	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177030255	1632177030255	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177030255	1632177030255	1	KO
+GROUP	MarsTestALL / APIs	1632177023332	1632177030364	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177030365	1632177030365	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177030364	1632177030365	1	KO
+GROUP	MarsTestALL / APIs	1632177023435	1632177030459	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177030459	1632177030459	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177030459	1632177030460	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177030591	1632177030591	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177030591	1632177030591	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177030668	1632177030668	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177030667	1632177030668	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177030769	1632177030769	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177030769	1632177030769	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177030876	1632177030876	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177030876	1632177030877	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177030961	1632177030961	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177030961	1632177030962	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177031066	1632177031066	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177031066	1632177031067	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177031180	1632177031180	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177031179	1632177031180	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177031258	1632177031258	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177031258	1632177031258	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177031366	1632177031366	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177031365	1632177031366	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177031461	1632177031461	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177031460	1632177031461	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177031596	1632177031596	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177031595	1632177031596	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177031674	1632177031674	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177031673	1632177031674	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177031775	1632177031775	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177031775	1632177031775	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177031882	1632177031882	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177031882	1632177031882	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177031966	1632177031966	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177031966	1632177031966	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177032072	1632177032072	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177032072	1632177032072	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177032186	1632177032186	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177032185	1632177032186	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177032261	1632177032261	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177032260	1632177032261	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177032369	1632177032369	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177032369	1632177032370	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177032466	1632177032466	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177032465	1632177032466	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177032597	1632177032597	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177032596	1632177032597	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177032680	1632177032680	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177032679	1632177032680	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177032781	1632177032781	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177032781	1632177032781	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177032886	1632177032886	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177032886	1632177032886	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177032971	1632177032971	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177032971	1632177032971	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177033076	1632177033076	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177033076	1632177033076	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177033191	1632177033191	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177033191	1632177033192	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177033266	1632177033266	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177033266	1632177033266	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177033373	1632177033373	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177033372	1632177033373	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177033471	1632177033471	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177033471	1632177033471	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177033602	1632177033602	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177033601	1632177033602	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177033686	1632177033686	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177033685	1632177033686	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177033787	1632177033787	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177033787	1632177033787	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177033892	1632177033892	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177033892	1632177033892	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177033976	1632177033976	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177033976	1632177033976	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177034082	1632177034082	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177034082	1632177034082	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177034195	1632177034196	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177034195	1632177034196	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177034272	1632177034272	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177034272	1632177034272	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177034378	1632177034378	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177034377	1632177034378	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177034477	1632177034477	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177034477	1632177034477	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177034608	1632177034608	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177034607	1632177034608	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177034692	1632177034692	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177034691	1632177034692	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177034793	1632177034793	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177034793	1632177034793	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177034895	1632177034895	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177034895	1632177034895	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177034982	1632177034982	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177034982	1632177034982	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177035088	1632177035088	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177035088	1632177035088	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177035201	1632177035201	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177035201	1632177035202	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177035276	1632177035276	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177035275	1632177035276	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177035383	1632177035383	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177035383	1632177035383	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177035483	1632177035483	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177035482	1632177035483	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177035614	1632177035616	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177035613	1632177035616	2	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177035696	1632177035696	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177035696	1632177035696	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177035796	1632177035796	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177035795	1632177035796	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177035897	1632177035897	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177035896	1632177035897	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177035986	1632177035986	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177035986	1632177035987	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177036094	1632177036094	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177036094	1632177036094	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177036203	1632177036203	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177036202	1632177036203	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177036277	1632177036277	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177036276	1632177036277	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177036387	1632177036387	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177036387	1632177036387	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177036485	1632177036485	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177036485	1632177036485	1	KO
+GROUP	MarsTestALL / APIs	1632177029586	1632177036616	8	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177036616	1632177036616	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177036616	1632177036616	1	KO
+GROUP	MarsTestALL / APIs	1632177029662	1632177036701	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177036702	1632177036702	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177036701	1632177036702	1	KO
+GROUP	MarsTestALL / APIs	1632177029764	1632177036801	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177036801	1632177036802	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177036801	1632177036802	1	KO
+GROUP	MarsTestALL / APIs	1632177029871	1632177036902	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177036903	1632177036903	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177036902	1632177036903	1	KO
+GROUP	MarsTestALL / APIs	1632177029960	1632177036992	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177036992	1632177036992	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177036992	1632177036993	1	KO
+GROUP	MarsTestALL / APIs	1632177030062	1632177037096	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177037096	1632177037096	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177037096	1632177037096	1	KO
+GROUP	MarsTestALL / APIs	1632177030175	1632177037205	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177037206	1632177037206	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177037205	1632177037206	1	KO
+GROUP	MarsTestALL / APIs	1632177030255	1632177037281	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177037281	1632177037281	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177037281	1632177037281	1	KO
+GROUP	MarsTestALL / APIs	1632177030364	1632177037391	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177037391	1632177037391	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177037391	1632177037392	1	KO
+GROUP	MarsTestALL / APIs	1632177030459	1632177037486	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177037486	1632177037487	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177037486	1632177037487	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177037622	1632177037622	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177037622	1632177037622	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177037705	1632177037705	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177037705	1632177037705	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177037807	1632177037808	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177037807	1632177037808	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177037909	1632177037909	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177037908	1632177037909	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177037998	1632177037998	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177037998	1632177037998	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177038102	1632177038102	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177038102	1632177038102	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177038208	1632177038208	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177038207	1632177038208	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177038283	1632177038283	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177038282	1632177038283	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177038393	1632177038393	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177038393	1632177038394	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177038492	1632177038492	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177038492	1632177038493	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177038626	1632177038626	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177038626	1632177038626	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177038711	1632177038711	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177038711	1632177038711	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177038813	1632177038814	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177038813	1632177038814	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177038914	1632177038915	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177038914	1632177038915	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177039004	1632177039004	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177039004	1632177039004	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177039107	1632177039107	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177039106	1632177039107	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177039212	1632177039212	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177039211	1632177039212	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177039286	1632177039286	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177039286	1632177039287	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177039398	1632177039398	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177039398	1632177039398	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177039496	1632177039496	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177039496	1632177039496	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177039632	1632177039632	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177039632	1632177039632	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177039714	1632177039715	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177039714	1632177039715	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177039818	1632177039818	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177039817	1632177039818	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177039918	1632177039918	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177039917	1632177039918	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177040007	1632177040007	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177040006	1632177040007	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177040107	1632177040107	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177040107	1632177040107	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177040213	1632177040213	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177040212	1632177040213	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177040292	1632177040292	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177040291	1632177040292	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177040404	1632177040404	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177040403	1632177040404	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderAddress		1632177040501	1632177040501	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderAddress	1632177040500	1632177040501	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177040635	1632177040635	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177040634	1632177040635	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177040718	1632177040718	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177040717	1632177040718	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177040820	1632177040820	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177040820	1632177040820	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177040922	1632177040922	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177040922	1632177040922	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177041010	1632177041010	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177041009	1632177041010	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177041109	1632177041109	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177041108	1632177041109	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177041214	1632177041214	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177041214	1632177041214	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177041293	1632177041293	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177041292	1632177041293	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177041409	1632177041409	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177041409	1632177041409	1	KO
+REQUEST	MarsTestALL / APIs,GetProviderName		1632177041502	1632177041502	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetProviderName	1632177041501	1632177041502	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177041636	1632177041636	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177041636	1632177041637	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177041721	1632177041721	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177041721	1632177041721	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177041824	1632177041824	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177041824	1632177041824	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177041925	1632177041925	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177041925	1632177041925	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177042013	1632177042013	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177042013	1632177042013	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177042110	1632177042110	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177042109	1632177042110	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177042219	1632177042219	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177042219	1632177042219	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177042294	1632177042294	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177042293	1632177042294	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177042410	1632177042410	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177042410	1632177042410	1	KO
+REQUEST	MarsTestALL / APIs,GetCensus		1632177042502	1632177042503	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetCensus	1632177042502	1632177042503	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177042637	1632177042638	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177042637	1632177042638	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177042724	1632177042724	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177042723	1632177042724	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177042825	1632177042825	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177042825	1632177042825	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177042927	1632177042927	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177042926	1632177042927	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177043014	1632177043014	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177043014	1632177043014	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177043111	1632177043111	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177043111	1632177043111	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177043221	1632177043221	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177043221	1632177043221	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177043300	1632177043300	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177043299	1632177043300	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177043415	1632177043415	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177043415	1632177043416	1	KO
+REQUEST	MarsTestALL / APIs,findMemberLinxById		1632177043506	1632177043506	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,findMemberLinxById	1632177043506	1632177043506	1	KO
+GROUP	MarsTestALL / APIs	1632177036616	1632177043643	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177043643	1632177043644	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177043643	1632177043644	1	KO
+GROUP	MarsTestALL / APIs	1632177036701	1632177043729	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177043730	1632177043730	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177043729	1632177043730	1	KO
+GROUP	MarsTestALL / APIs	1632177036801	1632177043826	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177043826	1632177043826	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177043826	1632177043826	1	KO
+GROUP	MarsTestALL / APIs	1632177036902	1632177043932	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177043932	1632177043933	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177043932	1632177043933	1	KO
+GROUP	MarsTestALL / APIs	1632177036992	1632177044020	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177044020	1632177044020	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177044020	1632177044020	1	KO
+GROUP	MarsTestALL / APIs	1632177037096	1632177044112	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177044112	1632177044112	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177044112	1632177044112	1	KO
+GROUP	MarsTestALL / APIs	1632177037205	1632177044224	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177044224	1632177044224	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177044224	1632177044224	1	KO
+GROUP	MarsTestALL / APIs	1632177037281	1632177044302	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177044302	1632177044302	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177044302	1632177044302	1	KO
+GROUP	MarsTestALL / APIs	1632177037391	1632177044420	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177044420	1632177044420	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177044420	1632177044420	1	KO
+GROUP	MarsTestALL / APIs	1632177037486	1632177044508	7	KO
+REQUEST	MarsTestALL / APIs,GetDocumentById		1632177044508	1632177044508	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,GetDocumentById	1632177044508	1632177044508	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177044648	1632177044648	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177044648	1632177044648	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177044733	1632177044733	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177044733	1632177044733	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177044829	1632177044829	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177044829	1632177044829	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177044936	1632177044936	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177044936	1632177044936	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177045021	1632177045021	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177045021	1632177045022	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177045115	1632177045115	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177045115	1632177045116	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177045225	1632177045226	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177045225	1632177045226	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177045306	1632177045306	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177045305	1632177045306	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177045426	1632177045426	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177045425	1632177045426	1	KO
+REQUEST	MarsTestALL / APIs,FindAllStates		1632177045514	1632177045514	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
+GROUP	MarsTestALL / APIs,FindAllStates	1632177045513	1632177045514	1	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177045652	1632177045654	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com: nodename nor servname provided, or not known
+GROUP	MarsTestALL / APIs,GetClusterByProviderType	1632177045652	1632177045654	2	KO
+REQUEST	MarsTestALL / APIs,GetClusterByProviderType		1632177045737	1632177045737	KO	

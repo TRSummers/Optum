@@ -1,0 +1,10 @@
+{
+  "simulation": "LandingPage",
+  "simulationId": "landingpage",
+  "start": 1623705284479,
+  "description": "",
+  "scenarios": ["LandingPage"],
+  "assertions": [
+
+  ]
+}

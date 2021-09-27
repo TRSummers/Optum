@@ -1,0 +1,10 @@
+{
+  "simulation": "StarTest.Framework.StarSim",
+  "simulationId": "starsim",
+  "start": 1623965671291,
+  "description": "StarTest.Framework.StarSim-SIMULATION_1_1:SIMULATION_2_0:SIMULATION_3_0:Iterations_1",
+  "scenarios": ["StarTestALL"],
+  "assertions": [
+
+  ]
+}
