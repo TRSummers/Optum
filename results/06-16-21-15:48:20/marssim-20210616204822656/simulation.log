@@ -1,5 +1,0 @@
-RUN	MarsTest.Framework.MarsSim	marssim	1623876502656	MarsTest.Framework.MarsSim-SIMULATION_1_1:SIMULATION_2_1:SIMULATION_3_1:Iterations_1	3.5.1
-REQUEST	MarsTestApi / API,GetDocumentById		1623876503700	1623876503700	KO	j.n.UnknownHostException: md-star-api-coho-qa.ocp-ctc-core-nonprod.optum.com
-GROUP	MarsTestApi / API,GetDocumentById	1623876503685	1623876503704	1	KO
-GROUP	MarsTestApi / API	1623876503685	1623876503704	1	KO
-USER	MarsTestApi2	END	1623876503706

@@ -1,8 +1,0 @@
-RUN	PE2	pe2	1627055303613	 	3.5.1
-USER	PE2	START	1627055323315
-REQUEST		request_0	1627055323326	1627055355209	KO	i.n.c.ConnectTimeoutException: connection timed out: ohpe-test3.optum.com/10.175.251.86:443
-REQUEST		request_49	1627055356219	1627055371540	KO	j.n.UnknownHostException: rba.onehealthcareid.com: nodename nor servname provided, or not known
-REQUEST		request_52	1627055374545	1627055374545	KO	j.n.UnknownHostException: rba.onehealthcareid.com
-REQUEST		request_54	1627055375549	1627055375549	KO	j.n.UnknownHostException: rba.onehealthcareid.com
-REQUEST		request_55	1627055376555	1627055376555	KO	j.n.UnknownHostException: rba.onehealthcareid.com
-USER	PE2	END	1627055376558
